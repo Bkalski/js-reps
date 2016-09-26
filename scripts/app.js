@@ -92,6 +92,7 @@ wordReverse(Yoda)
 //round 3
 //code in this stack overflow helped me 
 //http://stackoverflow.com/questions/2116558/fastest-method-to-replace-all-instances-of-a-character-in-a-string
+//http://dumpsite.com/forum/index.php?topic=4.msg8#msg8
 
 
 var daffy = "I disagree, so move on sweetie!";
